@@ -3,6 +3,7 @@
 -------
 
 [![kkyuwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkyuwoo&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/kkyuwoo/github-readme-stats)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkyuwoo)](https://solved.ac/kkyuwoo/)
 
 <br>
     
